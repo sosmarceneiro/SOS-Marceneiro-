@@ -1,0 +1,16 @@
+{
+  "name": "SOS Marceneiro",
+  "short_name": "SOS Marceneiro",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "description": "Plataforma de conexão com marceneiros locais para reparos rápidos de móveis.",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
